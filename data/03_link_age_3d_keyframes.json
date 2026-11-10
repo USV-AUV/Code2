@@ -1,0 +1,254 @@
+{
+  "source": "Visualization.zip -> Fig3/data/TMC_2AUV_3AUV_Three_Matrices_Real_Data.zip -> 3auv_full_matrix_series.json",
+  "description": "Original receiver-held directed link-report age matrix at eight Fig.3 event times. Null is missing. No interpolation is applied in this file.",
+  "case": "3auv",
+  "seed": 10920018,
+  "node_order": [
+    "USV",
+    "AUV1",
+    "AUV2",
+    "AUV3"
+  ],
+  "keyframes": [
+    {
+      "time_s": 400,
+      "event": "Outage starts",
+      "report_age_s": [
+        [
+          null,
+          39.821041,
+          39.814106,
+          39.8693
+        ],
+        [
+          29.32112,
+          null,
+          59.387942,
+          49.382685
+        ],
+        [
+          18.810825,
+          63.882727,
+          null,
+          53.885782
+        ],
+        [
+          8.36847,
+          55.879052,
+          55.885247,
+          null
+        ]
+      ]
+    },
+    {
+      "time_s": 555,
+      "event": "Relay requested",
+      "report_age_s": [
+        [
+          null,
+          60.0,
+          14.813036,
+          14.87018
+        ],
+        [
+          60.0,
+          null,
+          82.896352,
+          69.389928
+        ],
+        [
+          13.812854,
+          83.896379,
+          null,
+          68.878874
+        ],
+        [
+          13.369689,
+          73.388711,
+          73.377548,
+          null
+        ]
+      ]
+    },
+    {
+      "time_s": 577,
+      "event": "AUV1 installs relay",
+      "report_age_s": [
+        [
+          null,
+          82.0,
+          36.813036,
+          36.87018
+        ],
+        [
+          82.0,
+          null,
+          56.374541,
+          46.393928
+        ],
+        [
+          15.811434,
+          60.877386,
+          null,
+          45.882573
+        ],
+        [
+          20.361511,
+          50.394531,
+          50.381793,
+          null
+        ]
+      ]
+    },
+    {
+      "time_s": 587,
+      "event": "AUV2 installs relay",
+      "report_age_s": [
+        [
+          null,
+          47.0,
+          1.814063,
+          46.87018
+        ],
+        [
+          47.0,
+          null,
+          66.374541,
+          56.393928
+        ],
+        [
+          0.813457,
+          70.877386,
+          null,
+          55.882573
+        ],
+        [
+          30.361511,
+          60.394531,
+          60.381793,
+          null
+        ]
+      ]
+    },
+    {
+      "time_s": 597,
+      "event": "ACKs pending",
+      "report_age_s": [
+        [
+          null,
+          57.0,
+          11.814063,
+          56.87018
+        ],
+        [
+          57.0,
+          null,
+          76.374541,
+          66.393928
+        ],
+        [
+          10.813457,
+          80.877386,
+          null,
+          65.882573
+        ],
+        [
+          40.361511,
+          70.394531,
+          70.381793,
+          null
+        ]
+      ]
+    },
+    {
+      "time_s": 607,
+      "event": "USV confirms route",
+      "report_age_s": [
+        [
+          null,
+          67.0,
+          21.814063,
+          66.87018
+        ],
+        [
+          67.0,
+          null,
+          86.374541,
+          76.393928
+        ],
+        [
+          20.813457,
+          90.877386,
+          null,
+          75.882573
+        ],
+        [
+          50.361511,
+          80.394531,
+          80.381793,
+          null
+        ]
+      ]
+    },
+    {
+      "time_s": 645,
+      "event": "STATE delivered",
+      "report_age_s": [
+        [
+          null,
+          60.0,
+          9.814142,
+          59.858653
+        ],
+        [
+          60.0,
+          null,
+          74.373528,
+          114.393928
+        ],
+        [
+          8.814513,
+          83.87122,
+          null,
+          113.882573
+        ],
+        [
+          33.358036,
+          118.394531,
+          88.393651,
+          null
+        ]
+      ]
+    },
+    {
+      "time_s": 912,
+      "event": "Direct route restored",
+      "report_age_s": [
+        [
+          null,
+          56.866128,
+          56.821638,
+          56.842989
+        ],
+        [
+          11.362069,
+          null,
+          46.365412,
+          46.377483
+        ],
+        [
+          35.812903,
+          25.865042,
+          null,
+          65.924646
+        ],
+        [
+          45.335485,
+          35.37666,
+          90.426121,
+          null
+        ]
+      ]
+    }
+  ]
+}
