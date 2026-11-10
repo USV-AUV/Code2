@@ -1,6 +1,6 @@
 # Visual Guide for Reviewers
 
-This guide presents the original figure style and archived data from `Visualization.zip` using **one high-resolution static overview (Fig. 1)** and **five reviewer-friendly GIF animations (Figs. 2–6)**. The goal is to make the core mechanisms of the paper easier to follow at a glance: how delivery-aware coordination becomes operational, how topology and freshness evolve over time, and how the proposed framework behaves under stress.
+This guide presents the original figure style and archived data from `Code.zip` using **one high-resolution static overview (Fig. 1)** and **five reviewer-friendly GIF animations (Figs. 2–6)**. Notably, `Code.zip` provides the source code and data used in the paper. The goal for the visualization here is to make the core mechanisms of the paper easier to follow at a glance: how delivery-aware coordination becomes operational, how topology and freshness evolve over time, and how the proposed framework behaves under stress.
 
 All visuals are derived from the figure assets, plotting scripts, or archived data bundled in the supplied ZIP. The Fig. 1 PNG is rendered directly from its source PDF at 360 dpi without changing the artwork; the remaining GIFs retain their previous data and visual style.
 
